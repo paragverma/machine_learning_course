@@ -1,5 +1,5 @@
 # Machine Learning by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team
-#### This repository contains code which was used during this course
+#### This repository contains code which I wrote during this course
 Official code templates for this course can be found [here](https://www.superdatascience.com/machine-learning/).
 #### Link to course: https://www.udemy.com/machinelearning/
 #### Link to my certificate: https://www.udemy.com/certificate/UC-L2SC6L6I/
